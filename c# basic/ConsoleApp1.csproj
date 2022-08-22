@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  <StartupObject>ConsoleApp1.demo1</StartupObject>
+  <StartupObject>ConsoleApp1.assign3</StartupObject>
+  <StartupObject>ConsoleApp1.assign4</StartupObject>
+  <StartupObject>ConsoleApp1.assign5</StartupObject>
+  <StartupObject>ConsoleApp1.assign19</StartupObject>
+  <StartupObject>ConsoleApp1.assign16</StartupObject>
+  <StartupObject>ConsoleApp1.assign17</StartupObject>
+  <StartupObject>ConsoleApp1.assign15</StartupObject>
+  <StartupObject>ConsoleApp1.assign14</StartupObject>
+  <StartupObject>ConsoleApp1.assign7</StartupObject>
+  <StartupObject>ConsoleApp1.assign8</StartupObject>
+<StartupObject>ConsoleApp1.assign9</StartupObject>  
+<StartupObject>ConsoleApp1.assign10</StartupObject>
+  <StartupObject>ConsoleApp1.assign11</StartupObject>
+   <StartupObject>ConsoleApp1.assign12</StartupObject>
+   <StartupObject>ConsoleApp1.assign13</StartupObject>
+  <StartupObject>ConsoleApp1.assign18</StartupObject>
+  <StartupObject>ConsoleApp1.bank</StartupObject>
+  <StartupObject>ConsoleApp1.Strings</StartupObject>
+<StartupObject>ConsoleApp1.matrix</StartupObject>
+<StartupObject>ConsoleApp1.TestOnlineBooking</StartupObject>	  
+  <StartupObject>ConsoleApp1.Program1</StartupObject>
+</PropertyGroup>
+	</Project>
